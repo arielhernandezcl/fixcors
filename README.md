@@ -1,31 +1,31 @@
 
 # FixCors
 
-FixCors es una herramienta simple que te ayuda a solucionar los errores de CORS (Cross-Origin Resource Sharing) que pueden ocurrir al consumir APIs desde diferentes dominios. Con FixCors, podrás:
+FixCors es una herramienta online gratuita que te ayuda a solucionar los molestos errores de CORS (Cross-Origin Resource Sharing) que pueden ocurrir al consumir APIs desde diferentes dominios. Con FixCors, podrás:
 
-- Consumir una API y evitar los errores de cors en el navegador
+- Consumir APIs de forma segura y sin errores
 
-- Evitar instalar o realizar configuraciones extrañas
+- Evitar instalaciones o configuraciones adicionales
+
+- Ahorrar tiempo y esfuerzo
 
 
 ## Como Usar FixCors
 
-Para usar FixCors es muy facil.
+Usar FixCors es tan sencillo como:
 
-Coloca lo siguiente antes de la url de la API que deseas consumir
+1. Coloca lo siguiente antes de la url de la api que deseas consumir.
 
 ```html
 https://fixcors.site/?api=
 
 ```
-La url completa quedara de la siguiente manera
+Ejemplo, La url completa quedara debe quedar de la siguiente manera.
 
 ```html
 https://fixcors.site/?api=https://apps.bolchile.com/api/v1/dolarstatd2
 
 ```
-Asi de simple
-
 
 ## Licencia
 
