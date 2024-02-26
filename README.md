@@ -17,21 +17,26 @@ Usar FixCors es tan sencillo como:
 Coloca la siguiente url, antes de la url de la api que deseas consumir.
 
 ```html
-https://fixcors.site/?api=
+https://fixcors.site/
 
 ```
 Ejemplo, La url completa debe quedar de la siguiente manera.
 
 ```html
-https://fixcors.site/?api=https://apps.bolchile.com/api/v1/dolarstatd2
+https://fixcors.site/https://apps.bolchile.com/api/v1/dolarstatd2
 
 ```
 
 ## Licencia
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-## Autor
+## Fork From
+
+- [@chebyrash](https://www.github.com/chebyrash/cors)
+
+
+## FixCors Service
 
 - [@arielhernandezcl](https://www.github.com/arielhernandezcl)
