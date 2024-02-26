@@ -14,7 +14,7 @@ FixCors es una herramienta online gratuita que te ayuda a solucionar los molesto
 
 Usar FixCors es tan sencillo como:
 
-1. Coloca lo siguiente antes de la url de la api que deseas consumir.
+Coloca la siguiente url, antes de la url de la api que deseas consumir.
 
 ```html
 https://fixcors.site/?api=
