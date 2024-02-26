@@ -20,7 +20,7 @@ Coloca la siguiente url, antes de la url de la api que deseas consumir.
 https://fixcors.site/?api=
 
 ```
-Ejemplo, La url completa quedara debe quedar de la siguiente manera.
+Ejemplo, La url completa debe quedar de la siguiente manera.
 
 ```html
 https://fixcors.site/?api=https://apps.bolchile.com/api/v1/dolarstatd2
